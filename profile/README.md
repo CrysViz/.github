@@ -4,4 +4,6 @@
 Run it in your browser at crysviz.org.
 
 
-CrysViz is part of the (Anyterial initiave)[https://www.anyterial.se] 
+CrysViz is part of the [Anyterial initiave](https://www.anyterial.se)
+
+
